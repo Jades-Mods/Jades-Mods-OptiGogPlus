@@ -29,18 +29,18 @@ Install the Fabric modloader, and replace the mods folder in .minecraft with the
 **[Auth Me v4.1.0](https://modrinth.com/mod/auth-me)** - Authenticate yourself and re-validate your session  
 **[Continuity v2.0.0](https://modrinth.com/mod/continuity)** - A Fabric mod that allows for efficient connected textures  
 **[CustomHUD v2.1.0](https://modrinth.com/mod/customhud)** - A highly customizable variable-based text hud  
-**[Distant Horizons v1.68a](https://modrinth.com/mod/distanthorizons)** - Adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.
+**[Distant Horizons v1.68a](https://modrinth.com/mod/distanthorizons)** - Adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.  
 **[EasierVillagerTrading v0.58.5-1.5.4](https://modrinth.com/mod/easiervillagertrading)** - Fewer clicks to trade with villagers  
 **[Gamma Utils v1.6.9](https://modrinth.com/mod/gamma-utils)** - Gamma / brightness / night vision mod, making it easy to see in the dark. Basically fullbright for Fabric.  
 **[Horse Stats Vanilla v4.2.2](https://modrinth.com/mod/horsestatsvanilla)** - This client-side mod displays the statistics (health, speed, jump height) of horses in their inventory.  
-**[Inspecio v1.6.0](https://modrinth.com/mod/inspecio)** - Inspecio adds new tooltips to items like shulker boxes, filled map, fish bucket, armor, food, banner patterns, etc.
+**[Inspecio v1.6.0](https://modrinth.com/mod/inspecio)** - Inspecio adds new tooltips to items like shulker boxes, filled map, fish bucket, armor, food, banner patterns, etc.  
 **[Inventory HUD+ v3.4.2](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - Shows your inventory while you are playing  
 **[Iris Shaders v1.2.6](https://modrinth.com/mod/iris)** - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs  
 **[LambDynamicLights v2.1.2](https://modrinth.com/mod/lambdynamiclights)** - A dynamic lights mod for Fabric.  
 **[Light Overlay v7.0.0](https://modrinth.com/mod/light-overlay)** - A simple mod to provide users with NEI-like light level overlay.  
 **[Modmenu v4.0.5](https://modrinth.com/mod/modmenu)** - Adds a mod menu to view the list of mods you have installed.  
-**[Ok Zoomer v5.0.0-beta.3](https://modrinth.com/mod/ok-zoomer)** - Adds a configurable feature-packed zoom key, which allows for zooming.
-**[PaperDoll v1.1.1](https://modrinth.com/mod/paperdoll)** - Shows a Bedrock/Pocket Edition like highly configurable PaperDoll.
+**[Ok Zoomer v5.0.0-beta.3](https://modrinth.com/mod/ok-zoomer)** - Adds a configurable feature-packed zoom key, which allows for zooming.  
+**[PaperDoll v1.1.1](https://modrinth.com/mod/paperdoll)** - Shows a Bedrock/Pocket Edition like highly configurable PaperDoll.   
 **[Reese's Sodium Options v1.4.4+build.47](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium  
 **[Roughly Enough Items v9.1.520](https://modrinth.com/mod/roughly-enough-items)** - Clean and Customizable. Alternative to Just Enough Items/JEI.  
 **[ShulkerBoxTooltip v3.1.1](https://modrinth.com/mod/shulkerboxtooltip)** - View the contents of shulker boxes from your inventory  
