@@ -6,7 +6,7 @@ Quilt - the version of the modpack designed for the Quilt modloader.
 Optirefined - a version of the modpack designed to only contain mods that recreate the features of Optifine.  
 OptiGogPlus - an expanded set of both Quality of Life and Performance improvements for the Quilt modloader.
 # Installation instructions
-Install the Fabric modloader, and replace the mods folder in .minecraft with the unzipped mods folder contained in the releases.  
+Install the Quilt modloader, and replace the mods folder in .minecraft with the unzipped mods folder contained in the releases.  
 # Mods
 ### Performance/Backend mods
 **[Architectury API v6.0.35](https://modrinth.com/mod/architectury-api)** - An intermediary api aimed to ease developing multiplatform mods.  
