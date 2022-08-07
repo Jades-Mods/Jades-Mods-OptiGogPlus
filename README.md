@@ -29,7 +29,7 @@ Install the Quilt modloader, and replace the mods folder in .minecraft with the 
 **[Auth Me v4.1.0](https://modrinth.com/mod/auth-me)** - Authenticate yourself and re-validate your session  
 **[Continuity v2.0.0](https://modrinth.com/mod/continuity)** - A Fabric mod that allows for efficient connected textures  
 **[CustomHUD v2.1.0](https://modrinth.com/mod/customhud)** - A highly customizable variable-based text hud  
-**[Distant Horizons v1.68a](https://modrinth.com/mod/distanthorizons)** - Adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.
+**[Distant Horizons v1.68a](https://modrinth.com/mod/distanthorizons)** - Adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.  
 **[EasierVillagerTrading v0.58.5-1.5.4](https://modrinth.com/mod/easiervillagertrading)** - Fewer clicks to trade with villagers  
 **[Gamma Utils v1.6.9](https://modrinth.com/mod/gamma-utils)** - Gamma / brightness / night vision mod, making it easy to see in the dark. Basically fullbright for Fabric.  
 **[Horse Stats Vanilla v4.2.2](https://modrinth.com/mod/horsestatsvanilla)** - This client-side mod displays the statistics (health, speed, jump height) of horses in their inventory.  
